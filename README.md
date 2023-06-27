@@ -1,5 +1,4 @@
-# Phase 3 Project - Backend
-##  Home Improvement Project Organizer
+# Home Improvement Planner - Backend
 This is the backend to manage and organize home improvement projects. With Sinatra, this application uses Ruby to organize projects that have many tasks and tasks that belong to a project.
 
 ## Requirments
